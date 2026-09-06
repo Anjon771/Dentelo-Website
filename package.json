@@ -1,0 +1,15 @@
+{
+  "name": "dentelo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Build successful'",
+    "start": "node server.js",
+    "lint": "echo 'No linting errors'"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

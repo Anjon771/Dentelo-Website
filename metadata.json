@@ -1,0 +1,8 @@
+{
+  "name": "Dentelo",
+  "description": "We Are Best Dental Service - Dental clinic website with appointment booking and dental care services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
